@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+/* Colores y fuentes del sitio */
+@theme {
+  --color-cream: #fffdf9;
+  --color-ink: #30251f;
+  --color-muted: #796e65;
+  --color-terracota: #b84e38;
+  --color-sand: #f4eee5;
+
+  --font-display: 'DM Serif Display', serif;
+  --font-sans: 'Manrope', sans-serif;
+}
+
+body {
+  color: var(--color-ink);
+  background: var(--color-cream);
+  font-family: var(--font-sans);
+}

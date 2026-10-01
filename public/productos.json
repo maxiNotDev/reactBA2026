@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "nombre": "Frutilla",
+    "categoria": "Tarta",
+    "descripcion": "Base sablée de manteca, crema suave de vainilla y frutillas frescas. Simple, luminosa y hecha para la sobremesa.",
+    "precio": 14000,
+    "porciones": 8,
+    "imagen": "https://i.ibb.co/NQj443Y/tarta-de-frutilla.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Lemon pie",
+    "categoria": "Tarta",
+    "descripcion": "Curd de limón fresco sobre masa crocante, terminado con merengue apenas dorado.",
+    "precio": 15000,
+    "porciones": 8,
+    "imagen": "https://i.ibb.co/WNLCxvzn/lemon-pie.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Ricota",
+    "categoria": "Tarta",
+    "descripcion": "Ricota cremosa y un toque de miel sobre masa sablée.",
+    "precio": 16000,
+    "porciones": 8,
+    "imagen": "https://i.ibb.co/jvmjvJ8j/tarta-de-ricota.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Pasta frola",
+    "categoria": "Tarta",
+    "descripcion": "Masa de manteca tejida a mano, rellena de dulce de membrillo. La de siempre.",
+    "precio": 17000,
+    "porciones": 8,
+    "imagen": "https://i.ibb.co/GfhPqqgj/pastafrola.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Rogel",
+    "categoria": "Torta",
+    "descripcion": "Capas finitas de masa con dulce de leche, coronado con merengue italiano.",
+    "precio": 18000,
+    "porciones": 10,
+    "imagen": "https://i.ibb.co/PpdKF5W/rogel.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Tofi",
+    "categoria": "Torta",
+    "descripcion": "Bizcochuelo húmedo, dulce de leche y caramelo tofi. Para compartir en la mesa.",
+    "precio": 19000,
+    "porciones": 10,
+    "imagen": "https://i.ibb.co/hRmxwL0d/torta-tofi.jpg"
+  }
+]
